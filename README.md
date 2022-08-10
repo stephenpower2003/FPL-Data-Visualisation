@@ -12,3 +12,8 @@ This bar chart displays the players who scored the highest amount of points in G
 This bar chart displays the goalkeepers with the most amount of saves in GW1. A goalkeeper is awarded a single point for every 3 saves made, meaning that the goalkeeper's who racked up a large number of saves will be popular options for the goalkeeper slot within teams. Python Code: [highest_saves.py](https://github.com/stephenpower2003/FPL-Data-Visualisation/blob/main/highest_saves.py)
 
 ![Highest Saves Bar Plot](https://github.com/stephenpower2003/FPL-Data-Visualisation/blob/main/highest_saves.png)
+
+### ICT Defenders
+This bar chart displays defenders with the best ICT score from GW1. ICT is a feature that uses match-event data to generate a score based on three areas: Influence, Creativity and Threat. Defenders that can provide attacking returns can be very valuable in FPL, meaning defenders with a high ICT score are favourable options. Python Code: [defenders_ict.py](https://github.com/stephenpower2003/FPL-Data-Visualisation/blob/main/defenders_ict.py)
+
+![Defenders ICT Bar Plot](https://github.com/stephenpower2003/FPL-Data-Visualisation/blob/main/defenders_ict.png)
