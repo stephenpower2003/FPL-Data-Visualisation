@@ -17,3 +17,10 @@ This bar chart displays the goalkeepers with the most amount of saves in GW1. A 
 This bar chart displays defenders with the best ICT score from GW1. ICT is a feature that uses match-event data to generate a score based on three areas: Influence, Creativity and Threat. Defenders that can provide attacking returns can be very valuable in FPL, meaning defenders with a high ICT score are favourable options. Python Code: [defenders_ict.py](https://github.com/stephenpower2003/FPL-Data-Visualisation/blob/main/defenders_ict.py)
 
 ![Defenders ICT Bar Plot](https://github.com/stephenpower2003/FPL-Data-Visualisation/blob/main/defenders_ict.png)
+
+## Scatter Plots
+
+### Total Points by Position
+This categorcial scatter plot displays total GW1 points by players and their respective positions. FPL allows users to choose a formation for their team (e.g 4 defenders, 4 midfielders, 2 forwards), ideally you'd want a formation that is tailored to the positions that score a high amount of points. From the scatter plot, it's clear to see that midfielders had the most conistent double digit scorers (players with 10+ points), followed by defenders and then forwards. From this GW1 data alone, a 4-5-1 formation may be the preferred option for future gameweeks as it's a midfielder heavy formation. Python Code: [position_points.py](https://github.com/stephenpower2003/FPL-Data-Visualisation/blob/main/position_points.py)
+
+![Points by Position Categorical Scatter Plot](https://github.com/stephenpower2003/FPL-Data-Visualisation/blob/main/position_points.png)
